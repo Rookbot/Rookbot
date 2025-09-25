@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rukman Magamadov (AKA Rookbot)</h1>
-<h3 align="center">An aspiring software development student at UIO</h3>
+<h3 align="center">An aspiring software developer, student at UIO</h3>
 
 - I’m currently learning **System design, Algorithms, Backend Development**
 
@@ -14,3 +14,12 @@ Hi, I am currently a student at Programming and System Architecture at the Unive
 
 <h3 align="left">Currently known programming languages:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### 🌐 Where to reach me
+
+<p align="center">
+  <a href="mailto:rukmanmaga@gmail.com"><img src="https://img.shields.io/badge/Email-rukmanmaga@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rukman-magamadov-0353112b4/"><img src="https://img.shields.io/badge/LinkedIn-RukmanMagamadov-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
