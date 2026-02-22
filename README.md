@@ -7,7 +7,7 @@
 
 - Ask me about **Java, Python, Math or anything really**
 
-Hi, I am currently a student at Programming and System Architecture at the University of Oslo's Department of Informatics. Previously I studied engineering, where I took a variety of different engineering math subjects, along with physics such as fluidmechanics and normal mechanics. All of my repositories are private since most of them are just my school subjects, and I am not allowed to have them public. Thank you.
+Hi, I am currently a student at Programming and System Architecture at the University of Oslo's Department of Informatics. Previously I studied engineering, where I took a variety of different engineering math subjects, along with physics such as fluidmechanics and normal mechanics. All of my repositories are private since most of them are just my school projects which uses some of their API for course work, and I am not allowed to have them public. Thank you.
 
 
 <h3 align="left">Currently known programming languages:</h3>
